@@ -1,5 +1,5 @@
 .pnpm-store
 *-lock.yaml
 node_modules
-chrome-extension-starter-react-dist
+chrome-extension-react-starter-dist
 .env.*
