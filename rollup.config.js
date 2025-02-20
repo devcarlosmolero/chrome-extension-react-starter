@@ -17,7 +17,7 @@ const dotenvResult = dotenv.config({
 export default {
   input: 'src/manifest.json',
   output: {
-    dir: 'chrome-extension-starter-react-dist',
+    dir: 'chrome-extension-react-starter-dist',
     format: 'esm',
     chunkFileNames: path.join('chunks', '[name]-[hash].js'),
   },
